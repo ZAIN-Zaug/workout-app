@@ -14,8 +14,9 @@ A Flutter app for browsing exercises, building your own workout programs, and tr
 
 ## Screenshots
 
-<!-- Add your screenshots here, for example: -->
-<!-- <img src="screenshots/home.png" width="250"> <img src="screenshots/exercise.png" width="250"> <img src="screenshots/programs.png" width="250"> -->
+<img src="screenshots/home.jpg" width="220"> <img src="screenshots/filter.jpg" width="220"> <img src="screenshots/search.jpg" width="220">
+
+<img src="screenshots/programs.jpg" width="220"> <img src="screenshots/create-program.jpg" width="220"> <img src="screenshots/program-details.jpg" width="220"> <img src="screenshots/program-menu.jpg" width="220">
 
 ## Tech stack
 
