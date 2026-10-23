@@ -1,0 +1,83 @@
+[
+{
+"id": 1,
+"name": "ضغط البنش",
+"description": "تمرين أساسي لتقوية عضلة الصدر، يستهدف كمان الكتف والترايسبس.",
+"muscleGroup": "الصدر",
+"steps": ["استلقِ على البنش", "امسك البار بعرض الكتفين", "أنزل البار للصدر", "ادفع للأعلى"],
+"thumbnailPath": "assets/images/bench_press_thumb.jpg",
+"videoPath": "assets/data/\uD83D\uDCAA You_re doing Triceps Pushdowns... but are you doing them right_(360P).mp4"
+},
+{
+"id": 2,
+"name": "ضغط دمبل مائل",
+"description": "يستهدف الجزء العلوي من الصدر بشكل أكبر من الضغط العادي.",
+"muscleGroup": "الصدر",
+"steps": ["اضبط البنش بزاوية 30 درجة", "امسك دمبل بكل يد", "ادفع للأعلى", "أنزل ببطء"],
+"thumbnailPath": "assets/images/incline_dumbbell_thumb.jpg",
+"videoPath": "assets/videos/incline_dumbbell.mp4"
+},
+{
+"id": 3,
+"name": "سحب علوي",
+"description": "تمرين لتقوية عضلات الظهر العريضة.",
+"muscleGroup": "الظهر",
+"steps": ["اجلس واضبط الوسادة", "امسك القبضة بعرض أكبر من الكتفين", "اسحب نحو الصدر", "ارجع ببطء"],
+"thumbnailPath": "assets/images/lat_pulldown_thumb.jpg",
+"videoPath": "assets/videos/lat_pulldown.mp4"
+},
+{
+"id": 4,
+"name": "سحب أرضي",
+"description": "يستهدف عضلات الظهر الوسطى وأسفل الظهر.",
+"muscleGroup": "الظهر",
+"steps": ["اجلس وامسك المقبض", "شد كتفيك للخلف", "اسحب المقبض نحو البطن", "ارجع ببطء"],
+"thumbnailPath": "assets/images/seated_row_thumb.jpg",
+"videoPath": "assets/videos/seated_row.mp4"
+},
+{
+"id": 5,
+"name": "سكوات",
+"description": "تمرين شامل لعضلات الأرجل والمؤخرة.",
+"muscleGroup": "الأرجل",
+"steps": ["قف بعرض الكتفين", "ضع البار على الكتفين", "انزل حتى يوازي الفخذ الأرض", "ادفع للأعلى"],
+"thumbnailPath": "assets/images/squat_thumb.jpg",
+"videoPath": "assets/videos/squat.mp4"
+},
+{
+"id": 6,
+"name": "لنجز",
+"description": "يستهدف الفخذ الأمامي والمؤخرة بشكل منفرد لكل رجل.",
+"muscleGroup": "الأرجل",
+"steps": ["قف منتصباً", "اخطُ للأمام بخطوة واسعة", "انزل حتى تلامس الركبة الأرض تقريباً", "ارجع للوضع الأصلي"],
+"thumbnailPath": "assets/images/lunges_thumb.jpg",
+"videoPath": "assets/videos/lunges.mp4"
+},
+{
+"id": 7,
+"name": "ضغط كتف",
+"description": "تمرين أساسي لتقوية عضلة الكتف الأمامية والجانبية.",
+"muscleGroup": "الكتف",
+"steps": ["اجلس وامسك دمبل بكل يد", "ابدأ من مستوى الكتف", "ادفع للأعلى حتى تفرد الذراعين", "أنزل ببطء"],
+"thumbnailPath": "assets/images/shoulder_press_thumb.jpg",
+"videoPath": "assets/videos/shoulder_press.mp4"
+},
+{
+"id": 8,
+"name": "رفرفة جانبية",
+"description": "يستهدف عضلة الكتف الجانبية بشكل مباشر.",
+"muscleGroup": "الكتف",
+"steps": ["قف وامسك دمبل بكل يد", "ارفع الذراعين للجانبين حتى مستوى الكتف", "أنزل ببطء", "كرر الحركة"],
+"thumbnailPath": "assets/images/lateral_raise_thumb.jpg",
+"videoPath": "assets/videos/lateral_raise.mp4"
+},
+  {
+    "id": 9,
+    "name": "رفرفة امامية",
+    "description": "يستهدف عضلة الكتف الجانبية بشكل مباشر.",
+    "muscleGroup": "الكتف",
+    "steps": ["قف وامسك دمبل بكل يد", "ارفع الذراعين للجانبين حتى مستوى الكتف", "أنزل ببطء", "كرر الحركة"],
+    "thumbnailPath": "assets/images/lateral_raise_thumb.jpg",
+    "videoPath": "assets/videos/lateral_raise.mp4"
+  }
+]
